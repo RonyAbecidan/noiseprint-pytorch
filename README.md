@@ -6,7 +6,7 @@ In this repo, you will find an implementation of Noiseprint, a CNN-based camera 
 
 With this algorithm, you may find if an image has been falsified and even identify suspicious regions. A little example is displayed below.
 
-![](https://i.imgur.com/e2kuYvX.png)
+![](https://i.imgur.com/0VnMfHy.png)
 
 It's a faifthful replica of the [official implementation](https://github.com/grip-unina/noiseprint/) using however the library Pytorch. To learn more about this network, I suggest you to read the paper that describes it [here](https://arxiv.org/pdf/1808.08396.pdf).
 
